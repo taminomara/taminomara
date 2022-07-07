@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Tami (she/they) 💜
+### 👋 Hi there, I’m Tami (she/her) 💜
 
 I'm a rust dev, love distributed systems, compilers, tooling & documentation.
 
